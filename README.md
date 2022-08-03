@@ -1,5 +1,5 @@
 # [CS50p-2022](https://cs50.harvard.edu/python/2022/)
-This repository contains my CS50p 2022 Problem set solutions.
+This is a collection of submitted work for CS50P - Introduction to Computer Science with Python.
 
 You will find the link for each problem set specifications on the _Week_ title above.
 
